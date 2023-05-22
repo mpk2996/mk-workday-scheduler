@@ -5,8 +5,7 @@ This application serves as a single-day planner to help you organize and schedul
 
 1. [Description](#description)
 2. [Visuals](#visuals)
-3. [Build](#build)
-4. [Setup](#setup)
+3. [Setup](#setup)
 
 
 ### Description
