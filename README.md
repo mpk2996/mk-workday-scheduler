@@ -18,3 +18,4 @@ add an event, remove the event, or edit the event.
 
 ### Setup
 To use this application, click the link below to visit the deployed application.
+https://mpk2996.github.io/mk-workday-scheduler/
